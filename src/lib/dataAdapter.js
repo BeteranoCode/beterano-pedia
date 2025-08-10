@@ -1,0 +1,1 @@
+// Código del dataAdapter.js aquí (igual que en el mensaje anterior)

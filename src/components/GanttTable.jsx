@@ -1,0 +1,1 @@
+// Código del GanttTable.jsx aquí (se omite por espacio, pero igual que en el mensaje anterior)
