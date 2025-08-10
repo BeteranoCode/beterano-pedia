@@ -1,1 +1,5 @@
-// Código del GanttTable.jsx aquí (se omite por espacio, pero igual que en el mensaje anterior)
+function GanttTable({ data = [], yearMin = 1960, yearMax = 2025, mobileLayout='horizontal' }) {
+  // ... código actual del Gantt
+}
+
+export default GanttTable;
